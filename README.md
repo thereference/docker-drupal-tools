@@ -16,3 +16,5 @@ testing frameworks.
 processes at once.
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A tool that tokenizes PHP, JavaScript and CSS files
 and detects violations of a defined set of coding standards.
+* [coverageChecker](https://github.com/exussum12/coverageChecker) - Tools like phpcs and phpmd are an all or nothing approach, coverage checker allows this to work with the diff i.e. enforce all of the pull request / change request.
+* [PHPMD](https://phpmd.org/) - Takes a given PHP source code base and look for several potential problems within that source.
